@@ -1,0 +1,8 @@
+2026-04-23 16:13:40,432 - INFO - Loaded 0 predictions from data/processed/weekly_stance_predictions.csv
+2026-04-23 16:13:40,438 - WARNING - No baseline found. Created from current predictions. Review manually.
+2026-04-23 16:13:40,438 - INFO - 
+====== MONITORING HEALTH REPORT ======
+2026-04-23 16:13:40,439 - INFO - No anomalies detected. Model appears stable.
+2026-04-23 16:13:40,439 - INFO - Retraining not triggered (current threshold: F1 >= 0.75).
+2026-04-23 16:13:40,439 - INFO - Monitoring report complete.
+

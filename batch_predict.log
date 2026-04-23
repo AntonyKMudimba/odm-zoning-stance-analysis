@@ -1,0 +1,28 @@
+2026-04-23 16:10:51,724 - INFO - Starting batch prediction.
+2026-04-23 16:10:53,845 - INFO - Loaded current model.
+2026-04-23 16:10:53,846 - ERROR - Input file data/raw/new_statements.csv not found. Creating empty template.
+2026-04-23 16:11:51,227 - INFO - Starting batch prediction.
+2026-04-23 16:11:53,084 - INFO - Loaded current model.
+2026-04-23 16:11:53,106 - INFO - Loaded 0 new statements from data/raw/new_statements.csv
+2026-04-23 16:11:53,107 - INFO - Building features for prediction...
+2026-04-23 16:11:53,150 - INFO - Feature engineering complete.
+2026-04-23 16:11:53,154 - INFO - Feature matrix prepared.
+2026-04-23 16:11:53,157 - ERROR - Prediction error: Found array with 0 sample(s) (shape=(0, 5)) while a minimum of 1 is required by StandardScaler.
+2026-04-23 16:12:26,607 - INFO - Starting batch prediction.
+2026-04-23 16:12:28,459 - INFO - Loaded current model.
+2026-04-23 16:12:28,463 - INFO - Loaded 0 new statements from data/raw/new_statements.csv
+2026-04-23 16:12:28,464 - INFO - Building features for prediction...
+2026-04-23 16:12:28,486 - INFO - Feature engineering complete.
+2026-04-23 16:12:28,488 - INFO - Feature matrix prepared.
+2026-04-23 16:12:28,489 - WARNING - No new statements provided this week. Saving empty output.
+2026-04-23 16:12:28,494 - INFO - Empty predictions saved. Exiting.
+2026-04-23 16:21:05,132 - INFO - Starting batch prediction.
+2026-04-23 16:21:07,686 - INFO - Loaded current model.
+2026-04-23 16:21:07,703 - INFO - Loaded 3 new statements from data/raw/new_statements.csv
+2026-04-23 16:21:07,705 - INFO - Building features for prediction...
+2026-04-23 16:21:07,746 - INFO - Feature engineering complete.
+2026-04-23 16:21:07,753 - INFO - Feature matrix prepared.
+2026-04-23 16:21:07,758 - INFO - Predictions generated.
+2026-04-23 16:21:07,761 - INFO - Probability estimates added.
+2026-04-23 16:21:07,767 - INFO - Output saved to data/processed/weekly_stance_predictions.csv with 3 rows.
+2026-04-23 16:21:07,767 - INFO - Batch prediction completed successfully.
